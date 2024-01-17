@@ -6,8 +6,7 @@ import image5 from '../../public/images/image5.png';
 import image6 from '../../public/images/image6.png';
 import image7 from '../../public/images/image7.png';
 import image8 from '../../public/images/image8.png';
-import image10 from '../../public/images/image9.png';
-
+import image9 from '../../public/images/image9.png';
 
 export const productsList = [
   {
